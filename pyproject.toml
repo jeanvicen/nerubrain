@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "nerubrain"
+version = "0.1.0"
+description = "Reproducible, dependency-free utilities and a curated sample for neuronal morphology"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Jean Carlos de Souza Vicente"}]
+[project.scripts]
+nerubrain-summarize = "nerubrain.cli:main"
+nerubrain-fetch = "nerubrain.dataset:main"
+[tool.setuptools.packages.find]
+where = ["src"]
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

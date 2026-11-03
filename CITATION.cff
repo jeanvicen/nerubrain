@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use NeruBrain software, cite this repository; cite NeuroMorpho.org and the source publications for morphology data separately."
+title: "NeruBrain"
+type: software
+authors:
+  - family-names: "Vicente"
+    given-names: "Jean Carlos de Souza"
+repository-code: "https://github.com/jeanvicen/nerubrain"
+license: MIT
+version: 0.1.0

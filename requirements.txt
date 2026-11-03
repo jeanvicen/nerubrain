@@ -1,0 +1,2 @@
+# NeruBrain runtime uses only the Python standard library.
+# Install the package with: python -m pip install -e .
