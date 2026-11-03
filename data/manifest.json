@@ -1,0 +1,461 @@
+{
+  "dataset": "NeuroMorpho.org selected standardized morphology sample",
+  "retrieved_utc": "2026-11-03T02:11:47Z",
+  "query": {
+    "species": "human",
+    "cell_type": "pyramidal"
+  },
+  "requested_limit": 50,
+  "records": [
+    {
+      "neuron_name": "02a_pyramidal2aFI",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/02a_pyramidal2aFI.CNG.swc",
+      "metadata": "data/raw/02a_pyramidal2aFI.metadata.json",
+      "sha256": "778a85834eb5df3a409f4c4b441bc85826d3f24323b9c2badd99247fdb439113",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/02a_pyramidal2aFI.CNG.swc"
+    },
+    {
+      "neuron_name": "02b_pyramidal1aACC",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/02b_pyramidal1aACC.CNG.swc",
+      "metadata": "data/raw/02b_pyramidal1aACC.metadata.json",
+      "sha256": "4c352e7fd7624c2885473529fd42c9fcaa16ae86f7ebf99700808138199e5fcc",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/02b_pyramidal1aACC.CNG.swc"
+    },
+    {
+      "neuron_name": "02b_pyramidal1aFI",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/02b_pyramidal1aFI.CNG.swc",
+      "metadata": "data/raw/02b_pyramidal1aFI.metadata.json",
+      "sha256": "5a33a5b5fdee81b42aac8d80a2da07779f7f2cd6c916a5caa209bc8fdb75ea96",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/02b_pyramidal1aFI.CNG.swc"
+    },
+    {
+      "neuron_name": "03a_pyramidal9aFI",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/03a_pyramidal9aFI.CNG.swc",
+      "metadata": "data/raw/03a_pyramidal9aFI.metadata.json",
+      "sha256": "c18ecb2ebd3e6f677e4b26de7cc63363357727cd8f1b0dd35308dc65b3fdc2f1",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/03a_pyramidal9aFI.CNG.swc"
+    },
+    {
+      "neuron_name": "03b_pyramidal2aACC",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/03b_pyramidal2aACC.CNG.swc",
+      "metadata": "data/raw/03b_pyramidal2aACC.metadata.json",
+      "sha256": "ce58dbb06c802d2068018a302fd8a97821423a3902f550aeaf3a387692b0e71f",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/03b_pyramidal2aACC.CNG.swc"
+    },
+    {
+      "neuron_name": "03b_pyramidal3aACC",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/03b_pyramidal3aACC.CNG.swc",
+      "metadata": "data/raw/03b_pyramidal3aACC.metadata.json",
+      "sha256": "db1da201ec14b2606208027b7245560cfc911c2f69604778594364617da5f098",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/03b_pyramidal3aACC.CNG.swc"
+    },
+    {
+      "neuron_name": "03b_pyramidal3aFI",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/03b_pyramidal3aFI.CNG.swc",
+      "metadata": "data/raw/03b_pyramidal3aFI.metadata.json",
+      "sha256": "f56b67c11749a88720fcc33e0e8f734217fe8cd82ce41680b4f761cf846d335a",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/03b_pyramidal3aFI.CNG.swc"
+    },
+    {
+      "neuron_name": "03b_pyramidal4aFI",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/03b_pyramidal4aFI.CNG.swc",
+      "metadata": "data/raw/03b_pyramidal4aFI.metadata.json",
+      "sha256": "50faceb2e38c2fa884869b51fad66e4e083f57d3e84a764eb2c4ffe5d02eca3e",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/03b_pyramidal4aFI.CNG.swc"
+    },
+    {
+      "neuron_name": "03b_pyramidal9aFI",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/03b_pyramidal9aFI.CNG.swc",
+      "metadata": "data/raw/03b_pyramidal9aFI.metadata.json",
+      "sha256": "05084f1c1d804975f941126cdfc6da35c06be87f86f8ccd6004bbe29339ca907",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/03b_pyramidal9aFI.CNG.swc"
+    },
+    {
+      "neuron_name": "04a_pyramidal4aACC",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/04a_pyramidal4aACC.CNG.swc",
+      "metadata": "data/raw/04a_pyramidal4aACC.metadata.json",
+      "sha256": "7ce6ce9f4266fce6da77cf7e81672e1b34fecea6a54de19c1817f6b94f3b325a",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/04a_pyramidal4aACC.CNG.swc"
+    },
+    {
+      "neuron_name": "04a_pyramidal5aACC",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/04a_pyramidal5aACC.CNG.swc",
+      "metadata": "data/raw/04a_pyramidal5aACC.metadata.json",
+      "sha256": "8c1cf9248ec11946827eaab3f576b8c65a8b0db0022cdbc73d6a90b09cb05a40",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/04a_pyramidal5aACC.CNG.swc"
+    },
+    {
+      "neuron_name": "04b_pyramidal5aFI",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/04b_pyramidal5aFI.CNG.swc",
+      "metadata": "data/raw/04b_pyramidal5aFI.metadata.json",
+      "sha256": "69e7167d1875e1bb52287be45a6202b5d3eca188286191f11658af93ea3fae61",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/04b_pyramidal5aFI.CNG.swc"
+    },
+    {
+      "neuron_name": "04b_pyramidal6aACC",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/04b_pyramidal6aACC.CNG.swc",
+      "metadata": "data/raw/04b_pyramidal6aACC.metadata.json",
+      "sha256": "92ce6ad0a2f4d7669748ce33db808ca1bba2e3d4c336f9af7af9e04728cc7b83",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/04b_pyramidal6aACC.CNG.swc"
+    },
+    {
+      "neuron_name": "04b_pyramidal6aFI",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/04b_pyramidal6aFI.CNG.swc",
+      "metadata": "data/raw/04b_pyramidal6aFI.metadata.json",
+      "sha256": "e2a176b2d7e3ff87d23b945835052e5fc2dd22dd65b12319cc9a19dcd4bb35e9",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/04b_pyramidal6aFI.CNG.swc"
+    },
+    {
+      "neuron_name": "04b_pyramidal7aACC",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/04b_pyramidal7aACC.CNG.swc",
+      "metadata": "data/raw/04b_pyramidal7aACC.metadata.json",
+      "sha256": "39297539830ec583d0abd14bd6b50a0a2c27f8a91163485f3ac88523431d789f",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/04b_pyramidal7aACC.CNG.swc"
+    },
+    {
+      "neuron_name": "05a_pyramidal10aACC",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/05a_pyramidal10aACC.CNG.swc",
+      "metadata": "data/raw/05a_pyramidal10aACC.metadata.json",
+      "sha256": "2e70976eb4b2cf1854835f63047c3cb98bed136fb5f4186b3a9b0d7761cb35e4",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/05a_pyramidal10aACC.CNG.swc"
+    },
+    {
+      "neuron_name": "05a_pyramidal8aACC",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/05a_pyramidal8aACC.CNG.swc",
+      "metadata": "data/raw/05a_pyramidal8aACC.metadata.json",
+      "sha256": "17531e5598687a8fdb1c53f86e9a38ddc801c4f937d18ef56e45df904316ca34",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/05a_pyramidal8aACC.CNG.swc"
+    },
+    {
+      "neuron_name": "05b_pyramidal7aFI",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/05b_pyramidal7aFI.CNG.swc",
+      "metadata": "data/raw/05b_pyramidal7aFI.metadata.json",
+      "sha256": "0171a9dedff8b3da67fe2edf0eb118555973371e3749f4e4af1d99eb4028fd36",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/05b_pyramidal7aFI.CNG.swc"
+    },
+    {
+      "neuron_name": "05b_pyramidal8aFI",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/05b_pyramidal8aFI.CNG.swc",
+      "metadata": "data/raw/05b_pyramidal8aFI.metadata.json",
+      "sha256": "04bfdbe6235868147887d21704a1fa95bb1ccbd489ad9268acd5bf5226d12441",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/05b_pyramidal8aFI.CNG.swc"
+    },
+    {
+      "neuron_name": "05b_pyramidal9aACC",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/05b_pyramidal9aACC.CNG.swc",
+      "metadata": "data/raw/05b_pyramidal9aACC.metadata.json",
+      "sha256": "fe2684207b0c8fe67a796f1b5974d044c60cd19ac046cf1a6d80e60ab54ce9a9",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/05b_pyramidal9aACC.CNG.swc"
+    },
+    {
+      "neuron_name": "06a_pyramidal11aACC",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/06a_pyramidal11aACC.CNG.swc",
+      "metadata": "data/raw/06a_pyramidal11aACC.metadata.json",
+      "sha256": "11a1ce517bdfa2d02265d749b574cc4a9508c05bcb6c21e14dd791327d49c3e4",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/06a_pyramidal11aACC.CNG.swc"
+    },
+    {
+      "neuron_name": "06b_pyramidal10aFI",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/06b_pyramidal10aFI.CNG.swc",
+      "metadata": "data/raw/06b_pyramidal10aFI.metadata.json",
+      "sha256": "c22cf61964a28a0b1dcfdb4465a7ef594de84a34794c094b9a739df5e73bf743",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/06b_pyramidal10aFI.CNG.swc"
+    },
+    {
+      "neuron_name": "06b_pyramidal12aACC",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/06b_pyramidal12aACC.CNG.swc",
+      "metadata": "data/raw/06b_pyramidal12aACC.metadata.json",
+      "sha256": "c1c6354e285c9463c8737b424b575f937df7185bdb948e00ea60ec8f930f3381",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/06b_pyramidal12aACC.CNG.swc"
+    },
+    {
+      "neuron_name": "07a_pyramidal13aACC",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/07a_pyramidal13aACC.CNG.swc",
+      "metadata": "data/raw/07a_pyramidal13aACC.metadata.json",
+      "sha256": "8ff3d1a6818962bb711c56a9e967bbec935fa3fbc8937ad2c0d0cce142881032",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/07a_pyramidal13aACC.CNG.swc"
+    },
+    {
+      "neuron_name": "07b_pyramidal14aACC",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/07b_pyramidal14aACC.CNG.swc",
+      "metadata": "data/raw/07b_pyramidal14aACC.metadata.json",
+      "sha256": "2b5d0f30819ffd5cf612e0a042c6e4f45dffdc9242b0a24e3ecb4b27c8aa8bef",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/07b_pyramidal14aACC.CNG.swc"
+    },
+    {
+      "neuron_name": "08o_pyramidal11aFI",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/08o_pyramidal11aFI.CNG.swc",
+      "metadata": "data/raw/08o_pyramidal11aFI.metadata.json",
+      "sha256": "13a7ea01e77bf5e7f6dc0f59ae5f19caa58d0011c7b350b6d88e5259c8d03155",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/08o_pyramidal11aFI.CNG.swc"
+    },
+    {
+      "neuron_name": "10a_pyramidal15aACC",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/10a_pyramidal15aACC.CNG.swc",
+      "metadata": "data/raw/10a_pyramidal15aACC.metadata.json",
+      "sha256": "9ff4ce9f9400bad963f0ca0338514403947affa95032e57e732e50ce68041b88",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/10a_pyramidal15aACC.CNG.swc"
+    },
+    {
+      "neuron_name": "11a_pyramidal16aACC",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/11a_pyramidal16aACC.CNG.swc",
+      "metadata": "data/raw/11a_pyramidal16aACC.metadata.json",
+      "sha256": "b704bf8029c13def422a926b07ba5509e41ad6bc71b8a81aa566df44c242e603",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/11a_pyramidal16aACC.CNG.swc"
+    },
+    {
+      "neuron_name": "11o_pyramidal12aFI",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/11o_pyramidal12aFI.CNG.swc",
+      "metadata": "data/raw/11o_pyramidal12aFI.metadata.json",
+      "sha256": "c35d5bebacc49acd628ec663cb41d66d42b9174013c5bff4cec1d4dea182e1eb",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/11o_pyramidal12aFI.CNG.swc"
+    },
+    {
+      "neuron_name": "17o_pyramidal13aFI",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/17o_pyramidal13aFI.CNG.swc",
+      "metadata": "data/raw/17o_pyramidal13aFI.metadata.json",
+      "sha256": "f72d95903eabe311c6901779e962a01a44698d33009b98d8f9f82250a65f6c4e",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/17o_pyramidal13aFI.CNG.swc"
+    },
+    {
+      "neuron_name": "Fig1b_140312-1rm6_pyr",
+      "archive": "Tamas",
+      "species": "human",
+      "swc": "data/raw/Fig1b_140312-1rm6_pyr.CNG.swc",
+      "metadata": "data/raw/Fig1b_140312-1rm6_pyr.metadata.json",
+      "sha256": "1e219220af7c1398a6fd72b993d6c85b46a6a159375ddf4ad32e267eb3f47efe",
+      "source_url": "https://neuromorpho.org/dableFiles/tamas/CNG%20version/Fig1b_140312-1rm6_pyr.CNG.swc"
+    },
+    {
+      "neuron_name": "Fig5c_141009_2og_B",
+      "archive": "Tamas",
+      "species": "human",
+      "swc": "data/raw/Fig5c_141009_2og_B.CNG.swc",
+      "metadata": "data/raw/Fig5c_141009_2og_B.metadata.json",
+      "sha256": "723d8c9a30417c579b1b284f2e928a5f918cf4eac004dae959834030eb1e4d58",
+      "source_url": "https://neuromorpho.org/dableFiles/tamas/CNG%20version/Fig5c_141009_2og_B.CNG.swc"
+    },
+    {
+      "neuron_name": "Fig6b_1610052mg_B",
+      "archive": "Tamas",
+      "species": "human",
+      "swc": "data/raw/Fig6b_1610052mg_B.CNG.swc",
+      "metadata": "data/raw/Fig6b_1610052mg_B.metadata.json",
+      "sha256": "beaf7efbe9fb423c7d9f0671db9250fb46f4d9b6dd71a36bd18d6f9622ee091f",
+      "source_url": "https://neuromorpho.org/dableFiles/tamas/CNG%20version/Fig6b_1610052mg_B.CNG.swc"
+    },
+    {
+      "neuron_name": "18o_pyramidal14aFI",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/18o_pyramidal14aFI.CNG.swc",
+      "metadata": "data/raw/18o_pyramidal14aFI.metadata.json",
+      "sha256": "5de493536fc4f17a5a841b63e1ba477b933bde672a11d47e0c52cb0964a29ab1",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/18o_pyramidal14aFI.CNG.swc"
+    },
+    {
+      "neuron_name": "20o_pyramidal15aFI",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/20o_pyramidal15aFI.CNG.swc",
+      "metadata": "data/raw/20o_pyramidal15aFI.metadata.json",
+      "sha256": "7ef7911fead749768b6f116c2705054df0b66aff0e367ce7e3b2727f1e5c8086",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/20o_pyramidal15aFI.CNG.swc"
+    },
+    {
+      "neuron_name": "22o_pyramidal16aFI",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/22o_pyramidal16aFI.CNG.swc",
+      "metadata": "data/raw/22o_pyramidal16aFI.metadata.json",
+      "sha256": "2e2dd9ed49bce63479f1893f2b6876ccfc79d9a27ba8ad153ad3c21db81d890e",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/22o_pyramidal16aFI.CNG.swc"
+    },
+    {
+      "neuron_name": "24o_pyramidal17aFI",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/24o_pyramidal17aFI.CNG.swc",
+      "metadata": "data/raw/24o_pyramidal17aFI.metadata.json",
+      "sha256": "c4973c54bcec7464c5efc46c1ba117d5044912894f08544127bc9d1d5770d27d",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/24o_pyramidal17aFI.CNG.swc"
+    },
+    {
+      "neuron_name": "25o_pyramidal18aFI",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/25o_pyramidal18aFI.CNG.swc",
+      "metadata": "data/raw/25o_pyramidal18aFI.metadata.json",
+      "sha256": "6015b6c220bce1a9ed9da0149bb548964dcd592ec9cd641876755753adebd140",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/25o_pyramidal18aFI.CNG.swc"
+    },
+    {
+      "neuron_name": "31o_pyramidal19aFI",
+      "archive": "Allman",
+      "species": "human",
+      "swc": "data/raw/31o_pyramidal19aFI.CNG.swc",
+      "metadata": "data/raw/31o_pyramidal19aFI.metadata.json",
+      "sha256": "e4ccf5bddab94590bb4dc0809e52e77752c2db93fdde09fb1541abb86c85a2f2",
+      "source_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/31o_pyramidal19aFI.CNG.swc"
+    },
+    {
+      "neuron_name": "Tu2cell3_sc",
+      "archive": "Wittner",
+      "species": "human",
+      "swc": "data/raw/Tu2cell3_sc.CNG.swc",
+      "metadata": "data/raw/Tu2cell3_sc.metadata.json",
+      "sha256": "4823050e94ecd6503b0e8603c5e3f407da19f4200b2fa8ac2011c98a5be124f3",
+      "source_url": "https://neuromorpho.org/dableFiles/wittner/CNG%20version/Tu2cell3_sc.CNG.swc"
+    },
+    {
+      "neuron_name": "Epi3cell2_sc",
+      "archive": "Wittner",
+      "species": "human",
+      "swc": "data/raw/Epi3cell2_sc.CNG.swc",
+      "metadata": "data/raw/Epi3cell2_sc.metadata.json",
+      "sha256": "4f2b95f8b20a0ac87b02a0ff2fa730d3090cbeb1c7218776fd79088daaaf5d60",
+      "source_url": "https://neuromorpho.org/dableFiles/wittner/CNG%20version/Epi3cell2_sc.CNG.swc"
+    },
+    {
+      "neuron_name": "Epi10cell1_sc",
+      "archive": "Wittner",
+      "species": "human",
+      "swc": "data/raw/Epi10cell1_sc.CNG.swc",
+      "metadata": "data/raw/Epi10cell1_sc.metadata.json",
+      "sha256": "4502f501de3444b489ec32d337c217cd029afd5205843f74faa370ab4e246ef8",
+      "source_url": "https://neuromorpho.org/dableFiles/wittner/CNG%20version/Epi10cell1_sc.CNG.swc"
+    },
+    {
+      "neuron_name": "Epi16cell1_sc",
+      "archive": "Wittner",
+      "species": "human",
+      "swc": "data/raw/Epi16cell1_sc.CNG.swc",
+      "metadata": "data/raw/Epi16cell1_sc.metadata.json",
+      "sha256": "4147e5d02a354a867f2e0177b79aaef4c76ee9685e791edeab2de3ef780bfdfd",
+      "source_url": "https://neuromorpho.org/dableFiles/wittner/CNG%20version/Epi16cell1_sc.CNG.swc"
+    },
+    {
+      "neuron_name": "Epi30cell1_sc",
+      "archive": "Wittner",
+      "species": "human",
+      "swc": "data/raw/Epi30cell1_sc.CNG.swc",
+      "metadata": "data/raw/Epi30cell1_sc.metadata.json",
+      "sha256": "3db2cc5ce216e4fc1fce27dd453f53bd514278b802e7f3022c0c0b400f0aae4d",
+      "source_url": "https://neuromorpho.org/dableFiles/wittner/CNG%20version/Epi30cell1_sc.CNG.swc"
+    },
+    {
+      "neuron_name": "Fig4_2",
+      "archive": "Szegedi",
+      "species": "human",
+      "swc": "data/raw/Fig4_2.CNG.swc",
+      "metadata": "data/raw/Fig4_2.metadata.json",
+      "sha256": "1b00cf063b541915dc909ec1545d53652e8c69a18366e0b64c1dee73d0e3b717",
+      "source_url": "https://neuromorpho.org/dableFiles/szegedi/CNG%20version/Fig4_2.CNG.swc"
+    },
+    {
+      "neuron_name": "fig2c_1",
+      "archive": "Szegedi",
+      "species": "human",
+      "swc": "data/raw/fig2c_1.CNG.swc",
+      "metadata": "data/raw/fig2c_1.metadata.json",
+      "sha256": "09aa48420744189762437ef0374c212576cb477c2fe6ddd535fb63c86223f4d9",
+      "source_url": "https://neuromorpho.org/dableFiles/szegedi/CNG%20version/fig2c_1.CNG.swc"
+    },
+    {
+      "neuron_name": "fig2b_2",
+      "archive": "Szegedi",
+      "species": "human",
+      "swc": "data/raw/fig2b_2.CNG.swc",
+      "metadata": "data/raw/fig2b_2.metadata.json",
+      "sha256": "24abffc74c8f7a62cb35da7feca4056dbc79bc7e38e61b2f290d2e6e15ec85f4",
+      "source_url": "https://neuromorpho.org/dableFiles/szegedi/CNG%20version/fig2b_2.CNG.swc"
+    },
+    {
+      "neuron_name": "Fig2_1",
+      "archive": "Szegedi",
+      "species": "human",
+      "swc": "data/raw/Fig2_1.CNG.swc",
+      "metadata": "data/raw/Fig2_1.metadata.json",
+      "sha256": "257a69c87495bd2ad7b48cb9f736bd940132ed5eaa74d14ef25a9f714fe77d38",
+      "source_url": "https://neuromorpho.org/dableFiles/szegedi/CNG%20version/Fig2_1.CNG.swc"
+    },
+    {
+      "neuron_name": "Fig1_2",
+      "archive": "Szegedi",
+      "species": "human",
+      "swc": "data/raw/Fig1_2.CNG.swc",
+      "metadata": "data/raw/Fig1_2.metadata.json",
+      "sha256": "ccb58c80f2f144768c78bea78acbe6330feaa7d1fa4922298b57fde975ec5f7b",
+      "source_url": "https://neuromorpho.org/dableFiles/szegedi/CNG%20version/Fig1_2.CNG.swc"
+    },
+    {
+      "neuron_name": "Green_19weeks_Neuron4",
+      "archive": "Hrvoj-Mihic_Semendeferi",
+      "species": "human",
+      "swc": "data/raw/Green_19weeks_Neuron4.CNG.swc",
+      "metadata": "data/raw/Green_19weeks_Neuron4.metadata.json",
+      "sha256": "c62cec16b438dbc15f1253730571f266d6aff0e1102f539bcb3f959f7bfd70aa",
+      "source_url": "https://neuromorpho.org/dableFiles/hrvoj-mihic_semendeferi/CNG%20version/Green_19weeks_Neuron4.CNG.swc"
+    }
+  ]
+}
