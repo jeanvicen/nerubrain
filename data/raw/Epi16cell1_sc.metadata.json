@@ -1,0 +1,79 @@
+{
+  "metadata_source": "https://neuromorpho.org/api/neuron/select?q=cell_type:pyramidal&fq=species:human",
+  "standardized_file_url": "https://neuromorpho.org/dableFiles/wittner/CNG%20version/Epi16cell1_sc.CNG.swc",
+  "file_status": "NeuroMorpho.org CNG standardized SWC; original reconstruction not bundled",
+  "license": "NeuroMorpho.org Terms of Use; source datasets licensed CC BY 4.0 where indicated",
+  "retrieved_utc": "2026-11-03T02:11:47Z",
+  "sha256": "4147e5d02a354a867f2e0177b79aaef4c76ee9685e791edeab2de3ef780bfdfd",
+  "record": {
+    "neuron_id": 109434,
+    "neuron_name": "Epi16cell1_sc",
+    "archive": "Wittner",
+    "note": "",
+    "age_scale": "Year",
+    "gender": "Male",
+    "age_classification": "adult",
+    "brain_region": [
+      "neocortex",
+      "temporal",
+      "left",
+      "layer 5"
+    ],
+    "cell_type": [
+      "principal cell",
+      "pyramidal"
+    ],
+    "species": "human",
+    "strain": "Not applicable",
+    "scientific_name": null,
+    "stain": "biocytin",
+    "experiment_condition": [
+      "Epilepsy + left interictal spikes"
+    ],
+    "protocol": "in vitro",
+    "slicing_direction": "Not reported",
+    "reconstruction_software": "Neurolucida",
+    "objective_type": "Not reported",
+    "original_format": "Neurolucida.dat",
+    "domain": "Dendrites, No Soma, Axon",
+    "attributes": "Diameter, 3D, Angles",
+    "magnification": "40",
+    "upload_date": "2019-08-19",
+    "deposition_date": "2019-02-06",
+    "shrinkage_reported": "Reported",
+    "shrinkage_corrected": "Corrected",
+    "reported_value": null,
+    "reported_xy": null,
+    "reported_z": null,
+    "corrected_value": null,
+    "corrected_xy": null,
+    "corrected_z": null,
+    "soma_surface": null,
+    "surface": "84453.3",
+    "volume": "28000.6",
+    "slicing_thickness": "500",
+    "min_age": "26.0",
+    "max_age": "26.0",
+    "min_weight": "Not Reported",
+    "max_weight": "Not Reported",
+    "png_url": "http://neuromorpho.org/images/imageFiles/Wittner/Epi16cell1_sc.png",
+    "reference_pmid": [
+      "29178354"
+    ],
+    "reference_doi": [
+      "10.1113/JP275413"
+    ],
+    "physical_Integrity": "Dendrites & Axon Moderate",
+    "_links": {
+      "self": {
+        "href": "http://neuromorpho.org/api/neuron/id/109434"
+      },
+      "measurements": {
+        "href": "http://neuromorpho.org/api/morphometry/id/109434"
+      },
+      "persistence_vector": {
+        "href": "http://neuromorpho.org/api/pvec/id/109434"
+      }
+    }
+  }
+}

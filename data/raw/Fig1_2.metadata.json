@@ -1,0 +1,79 @@
+{
+  "metadata_source": "https://neuromorpho.org/api/neuron/select?q=cell_type:pyramidal&fq=species:human",
+  "standardized_file_url": "https://neuromorpho.org/dableFiles/szegedi/CNG%20version/Fig1_2.CNG.swc",
+  "file_status": "NeuroMorpho.org CNG standardized SWC; original reconstruction not bundled",
+  "license": "NeuroMorpho.org Terms of Use; source datasets licensed CC BY 4.0 where indicated",
+  "retrieved_utc": "2026-11-03T02:11:47Z",
+  "sha256": "ccb58c80f2f144768c78bea78acbe6330feaa7d1fa4922298b57fde975ec5f7b",
+  "record": {
+    "neuron_id": 111981,
+    "neuron_name": "Fig1_2",
+    "archive": "Szegedi",
+    "note": "",
+    "age_scale": "Year",
+    "gender": "Male",
+    "age_classification": "adult",
+    "brain_region": [
+      "neocortex",
+      "temporal",
+      "layer 2-3",
+      "left"
+    ],
+    "cell_type": [
+      "principal cell",
+      "pyramidal"
+    ],
+    "species": "human",
+    "strain": "Not applicable",
+    "scientific_name": null,
+    "stain": "biocytin",
+    "experiment_condition": [
+      "Cortical and subcortical neoplasm"
+    ],
+    "protocol": "ex vivo",
+    "slicing_direction": "Not reported",
+    "reconstruction_software": "Neurolucida",
+    "objective_type": "Not reported",
+    "original_format": "Neurolucida.nrx",
+    "domain": "Dendrites, Soma, Axon",
+    "attributes": "Diameter, 3D, Angles",
+    "magnification": "100",
+    "upload_date": "2019-08-19",
+    "deposition_date": "2019-04-24",
+    "shrinkage_reported": "Not reported",
+    "shrinkage_corrected": "",
+    "reported_value": null,
+    "reported_xy": null,
+    "reported_z": null,
+    "corrected_value": null,
+    "corrected_xy": null,
+    "corrected_z": null,
+    "soma_surface": "669.669",
+    "surface": "10893.8",
+    "volume": "971.844",
+    "slicing_thickness": "50",
+    "min_age": "49.0",
+    "max_age": "49.0",
+    "min_weight": "Not Reported",
+    "max_weight": "Not Reported",
+    "png_url": "http://neuromorpho.org/images/imageFiles/Szegedi/Fig1_2.png",
+    "reference_pmid": [
+      "29034319"
+    ],
+    "reference_doi": [
+      "10.1523/ENEURO.0260-17.2017"
+    ],
+    "physical_Integrity": "Dendrites Moderate, Axon Incomplete",
+    "_links": {
+      "self": {
+        "href": "http://neuromorpho.org/api/neuron/id/111981"
+      },
+      "measurements": {
+        "href": "http://neuromorpho.org/api/morphometry/id/111981"
+      },
+      "persistence_vector": {
+        "href": "http://neuromorpho.org/api/pvec/id/111981"
+      }
+    }
+  }
+}

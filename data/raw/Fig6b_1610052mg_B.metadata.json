@@ -1,0 +1,78 @@
+{
+  "metadata_source": "https://neuromorpho.org/api/neuron/select?q=cell_type:pyramidal&fq=species:human",
+  "standardized_file_url": "https://neuromorpho.org/dableFiles/tamas/CNG%20version/Fig6b_1610052mg_B.CNG.swc",
+  "file_status": "NeuroMorpho.org CNG standardized SWC; original reconstruction not bundled",
+  "license": "NeuroMorpho.org Terms of Use; source datasets licensed CC BY 4.0 where indicated",
+  "retrieved_utc": "2026-11-03T02:11:47Z",
+  "sha256": "beaf7efbe9fb423c7d9f0671db9250fb46f4d9b6dd71a36bd18d6f9622ee091f",
+  "record": {
+    "neuron_id": 107162,
+    "neuron_name": "Fig6b_1610052mg_B",
+    "archive": "Tamas",
+    "note": "",
+    "age_scale": "Not Reported",
+    "gender": "Male",
+    "age_classification": "not reported",
+    "brain_region": [
+      "neocortex",
+      "temporo-occipital",
+      "layer 1 and layer 2-3"
+    ],
+    "cell_type": [
+      "principal cell",
+      "pyramidal"
+    ],
+    "species": "human",
+    "strain": "Not applicable",
+    "scientific_name": null,
+    "stain": "biocytin",
+    "experiment_condition": [
+      "Control"
+    ],
+    "protocol": "in vitro",
+    "slicing_direction": "perpendicular to cortical layers",
+    "reconstruction_software": "Neurolucida",
+    "objective_type": "oil",
+    "original_format": "Neurolucida.dat",
+    "domain": "Dendrites, Soma, No Axon",
+    "attributes": "Diameter, 3D, Angles",
+    "magnification": "100",
+    "upload_date": "2019-04-08",
+    "deposition_date": "2018-10-18",
+    "shrinkage_reported": "Not Reported",
+    "shrinkage_corrected": "",
+    "reported_value": null,
+    "reported_xy": null,
+    "reported_z": null,
+    "corrected_value": null,
+    "corrected_xy": null,
+    "corrected_z": null,
+    "soma_surface": "755.692",
+    "surface": "16773.7",
+    "volume": "3339.89",
+    "slicing_thickness": "70",
+    "min_age": "Not Reported",
+    "max_age": "Not Reported",
+    "min_weight": "Not Reported",
+    "max_weight": "Not Reported",
+    "png_url": "http://neuromorpho.org/images/imageFiles/Tamas/Fig6b_1610052mg_B.png",
+    "reference_pmid": [
+      "30150662"
+    ],
+    "reference_doi": [
+      "10.1038/s41593-018-0205-2"
+    ],
+    "physical_Integrity": "Dendrites Complete",
+    "_links": {
+      "self": {
+        "href": "http://neuromorpho.org/api/neuron/id/107162"
+      },
+      "measurements": {
+        "href": "http://neuromorpho.org/api/morphometry/id/107162"
+      },
+      "persistence_vector": {
+        "href": "http://neuromorpho.org/api/pvec/id/107162"
+      }
+    }
+  }
+}

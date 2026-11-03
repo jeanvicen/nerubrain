@@ -1,0 +1,79 @@
+{
+  "metadata_source": "https://neuromorpho.org/api/neuron/select?q=cell_type:pyramidal&fq=species:human",
+  "standardized_file_url": "https://neuromorpho.org/dableFiles/szegedi/CNG%20version/fig2b_2.CNG.swc",
+  "file_status": "NeuroMorpho.org CNG standardized SWC; original reconstruction not bundled",
+  "license": "NeuroMorpho.org Terms of Use; source datasets licensed CC BY 4.0 where indicated",
+  "retrieved_utc": "2026-11-03T02:11:47Z",
+  "sha256": "24abffc74c8f7a62cb35da7feca4056dbc79bc7e38e61b2f290d2e6e15ec85f4",
+  "record": {
+    "neuron_id": 111977,
+    "neuron_name": "fig2b_2",
+    "archive": "Szegedi",
+    "note": "",
+    "age_scale": "Year",
+    "gender": "Female",
+    "age_classification": "adult",
+    "brain_region": [
+      "neocortex",
+      "temporo-parietal",
+      "layer 2-3",
+      "right"
+    ],
+    "cell_type": [
+      "principal cell",
+      "pyramidal"
+    ],
+    "species": "human",
+    "strain": "Not applicable",
+    "scientific_name": null,
+    "stain": "biocytin",
+    "experiment_condition": [
+      "Cortical and subcortical metaplasia"
+    ],
+    "protocol": "ex vivo",
+    "slicing_direction": "Not reported",
+    "reconstruction_software": "Neurolucida",
+    "objective_type": "Not reported",
+    "original_format": "Neurolucida.nrx",
+    "domain": "Dendrites, Soma, No Axon",
+    "attributes": "Diameter, 3D, Angles",
+    "magnification": "100",
+    "upload_date": "2019-08-19",
+    "deposition_date": "2019-04-24",
+    "shrinkage_reported": "Not reported",
+    "shrinkage_corrected": "",
+    "reported_value": null,
+    "reported_xy": null,
+    "reported_z": null,
+    "corrected_value": null,
+    "corrected_xy": null,
+    "corrected_z": null,
+    "soma_surface": "558.314",
+    "surface": "3771.17",
+    "volume": "543.965",
+    "slicing_thickness": "50",
+    "min_age": "68.0",
+    "max_age": "68.0",
+    "min_weight": "Not Reported",
+    "max_weight": "Not Reported",
+    "png_url": "http://neuromorpho.org/images/imageFiles/Szegedi/fig2b_2.png",
+    "reference_pmid": [
+      "29034319"
+    ],
+    "reference_doi": [
+      "10.1523/ENEURO.0260-17.2017"
+    ],
+    "physical_Integrity": "Dendrites Moderate",
+    "_links": {
+      "self": {
+        "href": "http://neuromorpho.org/api/neuron/id/111977"
+      },
+      "measurements": {
+        "href": "http://neuromorpho.org/api/morphometry/id/111977"
+      },
+      "persistence_vector": {
+        "href": "http://neuromorpho.org/api/pvec/id/111977"
+      }
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "metadata_source": "https://neuromorpho.org/api/neuron/select?q=cell_type:pyramidal&fq=species:human",
+  "standardized_file_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/07b_pyramidal14aACC.CNG.swc",
+  "file_status": "NeuroMorpho.org CNG standardized SWC; original reconstruction not bundled",
+  "license": "NeuroMorpho.org Terms of Use; source datasets licensed CC BY 4.0 where indicated",
+  "retrieved_utc": "2026-11-03T02:11:47Z",
+  "sha256": "2b5d0f30819ffd5cf612e0a042c6e4f45dffdc9242b0a24e3ecb4b27c8aa8bef",
+  "record": {
+    "neuron_id": 1066,
+    "neuron_name": "07b_pyramidal14aACC",
+    "archive": "Allman",
+    "note": "",
+    "age_scale": "Year",
+    "gender": "Male",
+    "age_classification": "adult",
+    "brain_region": [
+      "neocortex",
+      "anterior cingulate",
+      "layer 5"
+    ],
+    "cell_type": [
+      "pyramidal",
+      "principal cell"
+    ],
+    "species": "human",
+    "strain": "Not applicable",
+    "scientific_name": null,
+    "stain": "Golgi",
+    "experiment_condition": [
+      "Control"
+    ],
+    "protocol": "in vitro",
+    "slicing_direction": "Not reported",
+    "reconstruction_software": "Neurolucida",
+    "objective_type": "oil",
+    "original_format": "Neurolucida.asc",
+    "domain": "Dendrites, Soma, No Axon",
+    "attributes": "Diameter, 3D, Angles",
+    "magnification": "40",
+    "upload_date": "2007-05-04",
+    "deposition_date": "2007-02-07",
+    "shrinkage_reported": "Not Reported",
+    "shrinkage_corrected": "",
+    "reported_value": null,
+    "reported_xy": null,
+    "reported_z": null,
+    "corrected_value": null,
+    "corrected_xy": null,
+    "corrected_z": null,
+    "soma_surface": "1746.04",
+    "surface": "15979.5",
+    "volume": "7920.57",
+    "slicing_thickness": "200",
+    "min_age": "23.0",
+    "max_age": "23.0",
+    "min_weight": "Not Reported",
+    "max_weight": "Not Reported",
+    "png_url": "http://neuromorpho.org/images/imageFiles/Allman/07b_pyramidal14aACC.png",
+    "reference_pmid": [
+      "16797136"
+    ],
+    "reference_doi": [
+      "10.1016/j.neuroscience.2006.04.084"
+    ],
+    "physical_Integrity": "Dendrites Moderate",
+    "_links": {
+      "self": {
+        "href": "http://neuromorpho.org/api/neuron/id/1066"
+      },
+      "measurements": {
+        "href": "http://neuromorpho.org/api/morphometry/id/1066"
+      },
+      "persistence_vector": {
+        "href": "http://neuromorpho.org/api/pvec/id/1066"
+      }
+    }
+  }
+}

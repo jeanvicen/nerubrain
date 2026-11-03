@@ -1,0 +1,78 @@
+{
+  "metadata_source": "https://neuromorpho.org/api/neuron/select?q=cell_type:pyramidal&fq=species:human",
+  "standardized_file_url": "https://neuromorpho.org/dableFiles/allman/CNG%20version/04b_pyramidal6aACC.CNG.swc",
+  "file_status": "NeuroMorpho.org CNG standardized SWC; original reconstruction not bundled",
+  "license": "NeuroMorpho.org Terms of Use; source datasets licensed CC BY 4.0 where indicated",
+  "retrieved_utc": "2026-11-03T02:11:47Z",
+  "sha256": "92ce6ad0a2f4d7669748ce33db808ca1bba2e3d4c336f9af7af9e04728cc7b83",
+  "record": {
+    "neuron_id": 1054,
+    "neuron_name": "04b_pyramidal6aACC",
+    "archive": "Allman",
+    "note": "When originally released, this reconstruction had been incompletely processed, and this issue was fixed in release 6.3 (February 2016). The pre-6.3 version of the processed file is available for download <a href=\" dableFiles/previous/v6.3/allman/04b_pyramidal6aACC.CNG.swc \">here</a>.",
+    "age_scale": "Year",
+    "gender": "Male",
+    "age_classification": "adult",
+    "brain_region": [
+      "neocortex",
+      "anterior cingulate",
+      "layer 5"
+    ],
+    "cell_type": [
+      "pyramidal",
+      "principal cell"
+    ],
+    "species": "human",
+    "strain": "Not applicable",
+    "scientific_name": null,
+    "stain": "Golgi",
+    "experiment_condition": [
+      "Control"
+    ],
+    "protocol": "in vitro",
+    "slicing_direction": "Not reported",
+    "reconstruction_software": "Neurolucida",
+    "objective_type": "oil",
+    "original_format": "Neurolucida.asc",
+    "domain": "Dendrites, Soma, No Axon",
+    "attributes": "Diameter, 3D, Angles",
+    "magnification": "40",
+    "upload_date": "2007-05-04",
+    "deposition_date": "2007-02-07",
+    "shrinkage_reported": "Not Reported",
+    "shrinkage_corrected": "",
+    "reported_value": null,
+    "reported_xy": null,
+    "reported_z": null,
+    "corrected_value": null,
+    "corrected_xy": null,
+    "corrected_z": null,
+    "soma_surface": "568.013",
+    "surface": "11849.2",
+    "volume": "5447.0",
+    "slicing_thickness": "200",
+    "min_age": "23.0",
+    "max_age": "23.0",
+    "min_weight": "Not Reported",
+    "max_weight": "Not Reported",
+    "png_url": "http://neuromorpho.org/images/imageFiles/Allman/04b_pyramidal6aACC.png",
+    "reference_pmid": [
+      "16797136"
+    ],
+    "reference_doi": [
+      "10.1016/j.neuroscience.2006.04.084"
+    ],
+    "physical_Integrity": "Dendrites Moderate",
+    "_links": {
+      "self": {
+        "href": "http://neuromorpho.org/api/neuron/id/1054"
+      },
+      "measurements": {
+        "href": "http://neuromorpho.org/api/morphometry/id/1054"
+      },
+      "persistence_vector": {
+        "href": "http://neuromorpho.org/api/pvec/id/1054"
+      }
+    }
+  }
+}

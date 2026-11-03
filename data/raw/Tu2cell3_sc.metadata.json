@@ -1,0 +1,79 @@
+{
+  "metadata_source": "https://neuromorpho.org/api/neuron/select?q=cell_type:pyramidal&fq=species:human",
+  "standardized_file_url": "https://neuromorpho.org/dableFiles/wittner/CNG%20version/Tu2cell3_sc.CNG.swc",
+  "file_status": "NeuroMorpho.org CNG standardized SWC; original reconstruction not bundled",
+  "license": "NeuroMorpho.org Terms of Use; source datasets licensed CC BY 4.0 where indicated",
+  "retrieved_utc": "2026-11-03T02:11:47Z",
+  "sha256": "4823050e94ecd6503b0e8603c5e3f407da19f4200b2fa8ac2011c98a5be124f3",
+  "record": {
+    "neuron_id": 109431,
+    "neuron_name": "Tu2cell3_sc",
+    "archive": "Wittner",
+    "note": "",
+    "age_scale": "Year",
+    "gender": "Male",
+    "age_classification": "adult",
+    "brain_region": [
+      "neocortex",
+      "temporal",
+      "left",
+      "layer 2"
+    ],
+    "cell_type": [
+      "principal cell",
+      "pyramidal"
+    ],
+    "species": "human",
+    "strain": "Not applicable",
+    "scientific_name": null,
+    "stain": "biocytin",
+    "experiment_condition": [
+      "subcortical tumor (glioblastoma multiforme sarcomatosum)"
+    ],
+    "protocol": "in vitro",
+    "slicing_direction": "Not reported",
+    "reconstruction_software": "Neurolucida",
+    "objective_type": "Not reported",
+    "original_format": "Neurolucida.dat",
+    "domain": "Dendrites, Soma, Axon",
+    "attributes": "Diameter, 3D, Angles",
+    "magnification": "40",
+    "upload_date": "2019-08-19",
+    "deposition_date": "2019-02-06",
+    "shrinkage_reported": "Reported",
+    "shrinkage_corrected": "Corrected",
+    "reported_value": null,
+    "reported_xy": null,
+    "reported_z": null,
+    "corrected_value": null,
+    "corrected_xy": null,
+    "corrected_z": null,
+    "soma_surface": "3574.83",
+    "surface": "87898.2",
+    "volume": "22760.6",
+    "slicing_thickness": "500",
+    "min_age": "59.0",
+    "max_age": "59.0",
+    "min_weight": "Not Reported",
+    "max_weight": "Not Reported",
+    "png_url": "http://neuromorpho.org/images/imageFiles/Wittner/Tu2cell3_sc.png",
+    "reference_pmid": [
+      "29178354"
+    ],
+    "reference_doi": [
+      "10.1113/JP275413"
+    ],
+    "physical_Integrity": "Dendrites & Axon Moderate",
+    "_links": {
+      "self": {
+        "href": "http://neuromorpho.org/api/neuron/id/109431"
+      },
+      "measurements": {
+        "href": "http://neuromorpho.org/api/morphometry/id/109431"
+      },
+      "persistence_vector": {
+        "href": "http://neuromorpho.org/api/pvec/id/109431"
+      }
+    }
+  }
+}
